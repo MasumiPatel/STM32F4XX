@@ -38,7 +38,7 @@ This file contains sample code for generic LED and LCD displays. It serves as a 
 ## Getting Started
 1. Clone the repository to your local machine:
 
-      git clone [https://github.com/MasumiPatel/stm32f4xx-projects.git](https://github.com/MasumiPatel/STM32F4XX.git)
+         git clone https://github.com/MasumiPatel/STM32F4XX.git
 
 Open the project folder using Keil uVision 5.
 
